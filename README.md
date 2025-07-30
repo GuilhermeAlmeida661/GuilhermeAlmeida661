@@ -38,4 +38,4 @@ Sou um entusiasta de tecnologia, desenvolvedor focado em Java, estudioso de estr
 ### 🤝 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermenerva)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/GuilhermeAlmeida661/Portfolio) -> Para conhecer meus Projetos e Códigos
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/GuilhermeAlmeida661/Portfolio)
