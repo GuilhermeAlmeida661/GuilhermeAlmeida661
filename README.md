@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Guilherme!</h1>
+<h1 align="center">👋 Prazer, eu sou o Guilherme!</h1>
 
 <p align="center">
 Sou um entusiasta de tecnologia, desenvolvedor focado em Java, estudioso de estruturas de dados e apaixonado por resolver problemas da melhor forma possível.
